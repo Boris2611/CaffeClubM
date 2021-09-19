@@ -151,6 +151,10 @@
    transform: none;
  }
 
+.pic {
+  width: 100%;
+}
+
  /*
   My CSS
   */
