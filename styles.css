@@ -209,6 +209,16 @@ body {
 }
 /* PC VIEW END */
 
+.pic {
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+hr {
+  width: 100%;
+}
+
 
 /* PHONE VIEW START */
 
