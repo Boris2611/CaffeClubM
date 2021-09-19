@@ -174,50 +174,6 @@ body {
 }
 
 
-/* PC VIEW START*/
-.navbar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    border-bottom: 2px solid white;
-}
-
-.navbar li {
-    float: right;
-}
-
-.navbar li a {
-    display: block;
-    padding: 22px 30px;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    transition: 0.5s;
-    font-size: 20px;
-}
-
-.navbar li a:hover {
-    background-color:rgb(255, 77, 255, 0.1);
-    
-}
-
-.naslov {
-    text-align: center;
-    color: white;
-    font-size: 40px;
-}
-/* PC VIEW END */
-
-.pic {
-  width: 90%;
-  padding-left: 5%;
-  padding-right: 5%;
-}
-
-hr {
-  width: 1000px;
-}
 
 
 /* PHONE VIEW START */
