@@ -121,7 +121,7 @@
  #menu
  {
    position: absolute;
-   width: 300px;
+   width: 250px;
    margin: -100px 0 0 -50px;
    padding: 50px;
    padding-top: 125px;
@@ -197,7 +197,6 @@ body {
 
 .text {
   padding-top: 5px;
-  padding-left: 10px;
   color: white;
   text-align: center;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
