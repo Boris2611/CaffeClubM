@@ -178,6 +178,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     font-family: 'Special Elite', cursive;
+    min-width: 200px;
 }
 
 .logo {
