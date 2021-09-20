@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Gluten&family=Permanent+Marker&family=Special+Elite&display=swap');
 
-.hmbg {
-    display: none;
-}
  
 .aaa {
   color: wheat;
@@ -42,6 +39,8 @@
    width: 40px;
    height: 32px;
    position: absolute;
+   top: -7px;
+   left: -5px;
    
    cursor: pointer;
    
@@ -210,48 +209,15 @@ body {
     padding: 0;
     overflow: hidden;
     border-bottom: 2px solid white;
-    display: none;
 }
 
-.navbarphone li {
-   align-items: center; 
-}
 
-.navbarphone li a {
-    display: block;
-    padding: 12px ;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    transition: 0.5s;
-    font-size: 20px;
-}
 
-.active {
-    background-color:rgb(255, 77, 255, 0.1);
-}
-
-.navbarphone li a:hover {
-    background-color:rgb(255, 77, 255, 0.1);
-    
-}
-
-.naslovphone {
-    display: none;
-}
 
 /* PHONE VIEW END */
 
 
-    .navbar {
-        display: none;
-    }
-
-    .hmbg {
-        display: block;
-    }
-
-
+    
     .aaa {
       display: none;
     }
