@@ -160,7 +160,7 @@
   My CSS
   */
 
-.hr {
+hr {
   width: 1000px;
 }
 
@@ -260,7 +260,7 @@ body {
     .naslov3{
       padding: 10px 20px;
       font-size: 30px;
-      color: white;
+      color: rgb(245, 202, 124);
   }
 
   .naslov4{
